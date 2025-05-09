@@ -1,4 +1,4 @@
-# flutter_application_1
+# Animated list
 
 A new Flutter project.
 
